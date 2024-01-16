@@ -5,4 +5,4 @@ Gitの練習をしていきます。
 ・git diff
 ・git commit --amend
 ・git fast forward
-・コンフリクト at first.txt on master branch
+・conflict at first.txt on feature branch
