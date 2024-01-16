@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 ・git commit --amend
 ・git fast forward
 ・conflict at first.txt on feature branch
+ 5251c4310a30145eaa41284d6a5d184d0205b171
