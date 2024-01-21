@@ -10,3 +10,4 @@ Gitの練習をしていきます。
 ・pull request
 ・git commit の取消テスト
 ・git commit の取消テスト１
+・git commit の取消テスト２
