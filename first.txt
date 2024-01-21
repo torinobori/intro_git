@@ -9,3 +9,4 @@ Gitの練習をしていきます。
  5251c4310a30145eaa41284d6a5d184d0205b171
 ・pull request
 ・git commit の取消テスト
+・git commit の取消テスト１
